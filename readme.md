@@ -121,7 +121,7 @@ I am a skilled AI & Machine Learning Engineer and Full-Stack Developer. Speciali
 - 👯 I’m looking to collaborate on open-source AI projects.
 - 💬 Ask me about AI, machine learning, or full-stack development.
 - 📫 How to reach me: [elenkagit@gmail.com](mailto:elenkagit@gmail.com)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I have a black belt in AI debugging.
 
 ## 🛠️ Key Skills
