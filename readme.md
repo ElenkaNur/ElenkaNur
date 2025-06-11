@@ -188,4 +188,4 @@ I am a skilled AI & Machine Learning Engineer and Full-Stack Developer. Speciali
 
 <!-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-333333?style=flat&logo=whatsapp)] -->
-[Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)(mailto:elenkagit@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:elenkagit@gmail.com)
